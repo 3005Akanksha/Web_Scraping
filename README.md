@@ -1,5 +1,5 @@
 
-# Web Scraping Tool
+# Web Scraping 
 
 This project is a web scraping implemented using Python, BeautifulSoup, and requests library. The purpose of this tool is to extract data from websites efficiently and effectively, enabling users to gather information for analysis, research, or other purposes.
 
